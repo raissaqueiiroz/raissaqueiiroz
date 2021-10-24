@@ -3,7 +3,7 @@
   <h2> Hi there 🖖 </h2>
  
   <p align="left">📚 I'm currently studying web software development at Trybe and Systems Analysis and Development at PUC;</p>
-  <p align="left">🌱 I’m currently learning React ❄</p>
+  <p align="left">🌱 I’m currently learning React/Redux ❄</p>
   <p align="left">😄 Pronouns: she/her.</p>
 </div>
 
