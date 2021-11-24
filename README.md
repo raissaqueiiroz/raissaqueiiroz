@@ -27,7 +27,7 @@
   <img align="center" alt="Linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="GitHub" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Redux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-
+  <img align="center" alt="Eslint" height="60" width="70" src="https://symbols.getvecta.com/stencil_79/71_eslint-icon.67aaa31425.svg">
 </div>
   
   ##
