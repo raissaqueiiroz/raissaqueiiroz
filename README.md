@@ -31,6 +31,12 @@
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   
 </div>
+
+<div align="center">
+ <a href="https://git.io/streak-stats">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessicqueiroz&theme=radical" />
+ </a>
+</div>
   
   ##
   
