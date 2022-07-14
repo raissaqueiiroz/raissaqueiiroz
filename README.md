@@ -41,9 +41,9 @@
 </div>
  
   ##
- 
-  ![program](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
- 
+   <div align="center">
+    ![program](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+   </div>
 </div>
  
 
