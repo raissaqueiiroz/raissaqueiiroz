@@ -39,14 +39,8 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessicqueiroz&theme=radical" />
  </a>
 </div>
-  
+ 
   ##
-  
-   <div align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=jessicqueiroz-ma&theme=monokai" />
- </a>
-</div>
  
   ![program](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
  
