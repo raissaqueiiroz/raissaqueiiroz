@@ -1,10 +1,9 @@
 <div>
   <img align="right" alt="icon" height="150" width="150" src="https://media.discordapp.net/attachments/873969245543862274/873969327009857576/download20210800131023.png">
   <h2> Hi there 🖖 </h2>
+  <h3>My name is Raíssa 😄</h3>
  
   <p align="left">📚 I'm currently studying web software development at Trybe and Systems Analysis and Development at PUC;</p>
-  <p align="left">🌱 I’m currently learning Docker, SQL, NodeJS, MongoDB, TypeScript, POO, VPS, CI/CD.</p>
-  <p align="left">📚📚📚 I'm venturing into the JAVA and PYTHON world 📚📚📚 </p>
   <p align="left">😄 Pronouns: she/her.</p>
 </div>
 
