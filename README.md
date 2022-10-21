@@ -5,7 +5,7 @@
     </div>
 
 ```javascript
-const raissaqueiroz = {
+const raissaQueiroz = {
   pronouns: 'She' | 'Her',
   askMeAbout: ['web dev', 'tech', 'game'],
   academicBackground: {
