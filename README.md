@@ -2,6 +2,7 @@
     <div align="center">
     <h1> Hi there!  My name is Raíssa 🖖 </h1>
     <img height=150 weight=150  src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raissaqueiiroz&theme=buefy" />
     </div>
 
 ```javascript
@@ -50,6 +51,7 @@ const raissaqueiroz = {
 </div>
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
    <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -75,6 +77,7 @@ const raissaqueiroz = {
   <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
 </div><br>
 
 ##
