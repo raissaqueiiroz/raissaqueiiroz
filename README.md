@@ -6,37 +6,63 @@
 
 ```javascript
 const raissaQueiroz = {
-  pronouns: 'She' | 'Her',
-  askMeAbout: ['web dev', 'tech', 'game'],
-  academicBackground: {
-    pucMinas: {
-      training: 'Analysis and Systems Development',
-      status: 'doing',
-    },
-    trybe: {
-      training: 'FullStack Web Development',
-      status: 'done',
-    }
-  }
-  code: ['Javascript', 'Typescript', 'Python'],
-  technologies: {
-    frontEnd: [
-      'React.js',
-      'React Native',
-      'React Router',
-      'React Hooks',
-      'Context API',
-      'Redux',
-      'HTML',
-      'CSS',
-      'Bootstrap',
-    ],
-    backEnd: ['NodeJS', 'Express', 'APIs Rest'],
-    databases: ['mongoDB', 'MySql'],
-    tools: ['JIRA', 'GitHub', 'Figma', 'Invision'],
-    agileMethodologies: ['Scrum', 'Kanban'],
-    OS: ['Windows', 'Linux'],
-  },
+   "pronouns":"She|Her",
+   "askMeAbout":[
+      "web dev",
+      "tech",
+      "game"
+   ],
+   "academicBackground":{
+      "pucMinas":{
+         "training":"Analysis and Systems Development",
+         "status":"doing"
+      },
+      "trybe":{
+         "training":"FullStack Web Development",
+         "status":"done"
+      }
+   },
+   "code":[
+      "Javascript",
+      "Typescript",
+      "Python"
+   ],
+   "technologies":{
+      "frontEnd":[
+         "React.js",
+         "React Native",
+         "React Router",
+         "React Hooks",
+         "Context API",
+         "Redux",
+         "HTML",
+         "CSS",
+         "Bootstrap"
+      ],
+      "backEnd":[
+         "NodeJS",
+         "Express",
+         "APIs Rest"
+      ],
+      "databases":[
+         "mongoDB",
+         "MySql"
+      ],
+      "tools":[
+         "JIRA",
+         "GitHub",
+         "Figma",
+         "Invision"
+      ],
+      "agileMethodologies":[
+         "Scrum",
+         "Kanban"
+      ],
+      "OS":[
+         "Windows",
+         "Linux"
+      ]
+   }
 };
 ```
 
