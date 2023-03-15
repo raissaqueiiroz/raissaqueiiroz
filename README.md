@@ -25,7 +25,7 @@ const raissaQueiroz = {
    "code":[
       "Javascript",
       "Typescript",
-      "Python"
+      "C#"
    ],
    "technologies":{
       "frontEnd":[
@@ -42,7 +42,8 @@ const raissaQueiroz = {
       "backEnd":[
          "NodeJS",
          "Express",
-         "APIs Rest"
+         "APIs Rest",
+         "AWS"   
       ],
       "databases":[
          "mongoDB",
@@ -60,7 +61,8 @@ const raissaQueiroz = {
       ],
       "OS":[
          "Windows",
-         "Linux"
+         "Linux",
+        "Mac"
       ]
    }
 };
