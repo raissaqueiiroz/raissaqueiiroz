@@ -5,28 +5,15 @@
     </div>
 
 ```javascript
-const raissaQueiroz = {
-   "academicBackground":{
-      "pucMinas":{
-         "training":"Analysis and Systems Development",
-         "status":"doing"
-      },
-      "trybe":{
-         "training":"FullStack Web Development",
-         "status":"done"
-      }
-   },
-   "code":[
+   code: [
       "Javascript",
       "Typescript",
       "C#",
-    "Java",
-".Net",
-"Node.js",
-"Sql",
-   ],
-   }
-};
+      "Java",
+      ".Net",
+      "Node.js",
+      "Sql"
+   ];
 ```
 
 </div>
