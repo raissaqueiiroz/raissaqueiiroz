@@ -1,17 +1,11 @@
 <div>
     <div align="center">
-    <h1> Hi there!  My name is Raíssa 🖖 </h1>
+    <h1> Hi there! 🖖 </h1>
     <img height=150 weight=150  src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
     </div>
 
 ```javascript
 const raissaQueiroz = {
-   "pronouns":"She|Her",
-   "askMeAbout":[
-      "web dev",
-      "tech",
-      "game"
-   ],
    "academicBackground":{
       "pucMinas":{
          "training":"Analysis and Systems Development",
@@ -25,45 +19,12 @@ const raissaQueiroz = {
    "code":[
       "Javascript",
       "Typescript",
-      "C#"
+      "C#",
+    "Java",
+".Net",
+"Node.js",
+"Sql",
    ],
-   "technologies":{
-      "frontEnd":[
-         "React.js",
-         "React Native",
-         "React Router",
-         "React Hooks",
-         "Context API",
-         "Redux",
-         "HTML",
-         "CSS",
-         "Bootstrap"
-      ],
-      "backEnd":[
-         "NodeJS",
-         "Express",
-         "APIs Rest",
-         "AWS"   
-      ],
-      "databases":[
-         "mongoDB",
-         "MySql"
-      ],
-      "tools":[
-         "JIRA",
-         "GitHub",
-         "Figma",
-         "Invision"
-      ],
-      "agileMethodologies":[
-         "Scrum",
-         "Kanban"
-      ],
-      "OS":[
-         "Windows",
-         "Linux",
-        "Mac"
-      ]
    }
 };
 ```
